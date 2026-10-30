@@ -1,0 +1,17 @@
+C:\GIT_REPOS\ServiceDiscount\publish\ServiceDiscount.Api.exe
+C:\GIT_REPOS\ServiceDiscount\publish\appsettings.Development.json
+C:\GIT_REPOS\ServiceDiscount\publish\appsettings.json
+C:\GIT_REPOS\ServiceDiscount\publish\ServiceDiscount.Api.dll
+C:\GIT_REPOS\ServiceDiscount\publish\ServiceDiscount.Api.deps.json
+C:\GIT_REPOS\ServiceDiscount\publish\ServiceDiscount.Api.runtimeconfig.json
+C:\GIT_REPOS\ServiceDiscount\publish\ServiceDiscount.Api.pdb
+C:\GIT_REPOS\ServiceDiscount\publish\FluentValidation.dll
+C:\GIT_REPOS\ServiceDiscount\publish\FluentValidation.AspNetCore.dll
+C:\GIT_REPOS\ServiceDiscount\publish\FluentValidation.DependencyInjectionExtensions.dll
+C:\GIT_REPOS\ServiceDiscount\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\GIT_REPOS\ServiceDiscount\publish\Microsoft.OpenApi.dll
+C:\GIT_REPOS\ServiceDiscount\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT_REPOS\ServiceDiscount\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT_REPOS\ServiceDiscount\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GIT_REPOS\ServiceDiscount\publish\ServiceDiscount.Core.dll
+C:\GIT_REPOS\ServiceDiscount\publish\ServiceDiscount.Core.pdb

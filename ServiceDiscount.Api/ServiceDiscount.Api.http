@@ -1,0 +1,6 @@
+@ServiceDiscount.Api_HostAddress = http://localhost:5063
+
+GET {{ServiceDiscount.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

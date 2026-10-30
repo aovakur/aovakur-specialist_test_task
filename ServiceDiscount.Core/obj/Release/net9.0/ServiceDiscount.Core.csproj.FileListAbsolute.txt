@@ -1,0 +1,11 @@
+C:\GIT_REPOS\ServiceDiscount\ServiceDiscount.Core\bin\Release\net9.0\ServiceDiscount.Core.deps.json
+C:\GIT_REPOS\ServiceDiscount\ServiceDiscount.Core\bin\Release\net9.0\ServiceDiscount.Core.dll
+C:\GIT_REPOS\ServiceDiscount\ServiceDiscount.Core\bin\Release\net9.0\ServiceDiscount.Core.pdb
+C:\GIT_REPOS\ServiceDiscount\ServiceDiscount.Core\obj\Release\net9.0\ServiceDiscount.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT_REPOS\ServiceDiscount\ServiceDiscount.Core\obj\Release\net9.0\ServiceDiscount.Core.AssemblyInfoInputs.cache
+C:\GIT_REPOS\ServiceDiscount\ServiceDiscount.Core\obj\Release\net9.0\ServiceDiscount.Core.AssemblyInfo.cs
+C:\GIT_REPOS\ServiceDiscount\ServiceDiscount.Core\obj\Release\net9.0\ServiceDiscount.Core.csproj.CoreCompileInputs.cache
+C:\GIT_REPOS\ServiceDiscount\ServiceDiscount.Core\obj\Release\net9.0\ServiceDiscount.Core.dll
+C:\GIT_REPOS\ServiceDiscount\ServiceDiscount.Core\obj\Release\net9.0\refint\ServiceDiscount.Core.dll
+C:\GIT_REPOS\ServiceDiscount\ServiceDiscount.Core\obj\Release\net9.0\ServiceDiscount.Core.pdb
+C:\GIT_REPOS\ServiceDiscount\ServiceDiscount.Core\obj\Release\net9.0\ref\ServiceDiscount.Core.dll
